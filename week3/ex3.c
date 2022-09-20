@@ -99,8 +99,11 @@ int main(){
     show_file_detailed(&ex32);
 
     pwd_file(&bash);
+    printf("\n");
     pwd_file(&ex31);
+    printf("\n");
     pwd_file(&ex32);
+    printf("\n");
 
     return EXIT_SUCCESS;
 }
