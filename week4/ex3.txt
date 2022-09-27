@@ -1,0 +1,4 @@
+According to the experiment, there are two states: when n=3 and n=5.
+For the n=3, after executing the "pstree" command several times we can see that the program creates 2^3 processes(7 new ones).
+For the n=5, we can see almost the same picture, at some time the command "pstree" will show the same pattern tree as at the end of "n=3" program (when the loop in the program done exactly 3 iterations). At the end of "n=5" program we will see the tree with 2^5 processes created (31 of them are a children of some other processes).
+To conclude, the program creates hierarhy of processes or a binomial tree of order n, that we can see by usage of "prstree" command.
