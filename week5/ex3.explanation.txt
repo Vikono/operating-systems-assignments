@@ -1,0 +1,1 @@
+The more threads created, the faster the code executes for the n equals 10000000. So we can conclude that the time of execution is inversely proportional to the number of threads.
