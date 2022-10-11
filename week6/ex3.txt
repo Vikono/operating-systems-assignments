@@ -1,0 +1,1 @@
+The Round Robbin algorithm allow to switch processes after some time(quant) according to some queue. This means that every process will be executed to some time (no starvation of the processes as in the SJF) and there will be no extra time process should wait to terminate (as in FCFS).

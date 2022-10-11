@@ -1,0 +1,2 @@
+The First Come First Serve algorithm schedules the processes according its arrival time only, so it increases the average waiting time and leads to the lower efficiency of CPU.
+Compare this, the Shortest Job First sorts the processes according its burst time, so it lows the waiting time of the processes, but long(in terms of time) process may be never executed, as it always be at the end of the queue. This leads to the increasing average turnaround time and starvation of the processes. 
