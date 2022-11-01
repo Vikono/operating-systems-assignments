@@ -1,0 +1,3 @@
+Physical address refers to a main memory, whereas virtual address is points to location of memory needed.
+When virtual address is in use within system, there is an illusion that every proccess has whole available amount of memory to itself, but the memory is split over the processes as they need.   
+Virtual address is larger than Physical address. 

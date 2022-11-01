@@ -1,0 +1,2 @@
+8KB = 2^13 
+2^16/2^13 = 2^3 = 8 - entries needed for single-level page table
