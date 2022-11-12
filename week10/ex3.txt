@@ -1,0 +1,9 @@
+-rw-rw-r-- 1 ubuntuos ubuntuos 10 ноя 12 12:51 _ex3.txt
+-rwxrw-rwx 1 ubuntuos ubuntuos 10 ноя 12 12:51 _ex3.txt
+-rwxrwxrwx 1 ubuntuos ubuntuos 10 ноя 12 12:51 _ex3.txt
+
+All rights are represented as 9 bits, they are devided by three groups - each one for user's, group's and others' rights
+So, every number in short version is responsible for concrete 'owner' of rights and represent the range of rights. 
+660 (110 110 000) means that the user and group can read and write to the file only, but others do not have any rights concerning this file.
+775 (111 111 101) means that the user and group have all rights, but others have only read and execute rights.
+777 (111 111 111) means that everybody is granted all rights.
