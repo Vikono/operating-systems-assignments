@@ -1,0 +1,59 @@
+available shortcuts:
+P+E: "I passed the Exam!"
+C+A+P: "Get some cappuchino!"
+C+V: "Copy and paste"
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Copy and paste
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+Get some cappuchino!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+I passed the Exam!
+
