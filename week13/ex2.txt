@@ -1,0 +1,6 @@
+In recovery method the main point we want to focus on is performance. According to its name, method is used to recover deadlock, so it is dangerouse as we do not avoid them. 
+
+Prevention is used to prevent a deadlock(they do not occur), so we focus on safety of performance. Prevent all deadlockes is too complicated to implement in reality, but if this method is achieved, it is garantied that everything is safe (but other strategies are not). 
+
+Avoidance is based on prediction of the deadlock is going to be occured. To avoid a deadlock this method manipulates the resourses, thus, performance is decreased. So, it is slower than prevention, but better than recovery in terms of safety.
+
