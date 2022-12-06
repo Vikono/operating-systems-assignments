@@ -77,7 +77,7 @@ int counter(char *str, char symb, int lenn) {
 }
 
 int main() {
-    FILE *input = fopen("input_ok.txt", "r");
+    FILE *input = fopen("input.txt", "r");
     int *Exists = (int *) malloc(256 * sizeof(int));
     int *Avail = (int *) malloc(256 * sizeof(int));
     int **Cur_matrix = (int **) malloc(256 * sizeof(int *));
