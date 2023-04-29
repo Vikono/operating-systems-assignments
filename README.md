@@ -1,3 +1,3 @@
-# operating-systems-assignments
+# Operating systems assignments
 
 The repository for OS course assignments in Innopolis University 
